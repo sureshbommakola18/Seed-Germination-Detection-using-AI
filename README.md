@@ -38,7 +38,7 @@ Traditionally, germination assessment relies on **manual observation**, which is
 * Dr. K. Srujan Raju
 
 📌 **DOI:**
-👉 *Will be updated after publication*
+👉 *https://doi.org/10.48175/IJARSCT-31843*
 
 ---
 
