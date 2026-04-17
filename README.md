@@ -158,7 +158,7 @@ python evaluation_ui.py
 
 | Metric    | Value |
 | --------- | ----- |
-| Accuracy  | ~95%  |
+| Accuracy  | ~90%  |
 | Precision | ~94%  |
 | Recall    | ~93%  |
 | F1 Score  | ~94%  |
